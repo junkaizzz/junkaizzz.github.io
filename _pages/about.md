@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Junkai Zhang | University of Illinois Chicago"
 author_profile: true
 redirect_from: 
   - /about/
