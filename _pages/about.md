@@ -9,13 +9,13 @@ redirect_from:
 
 ## About Me
 
-I am a first-year Ph.D. student in Computer Science at the **University of Illinois Chicago (UIC)**, advised by **Prof. Hao Chen**. My research focuses on AI-for-Science and computational biology, with an emphasis on modeling biological structures and understanding cellular aging processes.
+I am a first-year Ph.D. student in Computer Science at the **University of Illinois Chicago (UIC)**, advised by **Prof. Hao Chen**. My current research focuses on AI-for-Science and computational biology, with an emphasis on developing scalable and robust methods for **cell segmentation and structural analysis**.
 
-Before joining UIC, I completed my B.S. in Computer Science at **Virginia Tech**, where I worked with **Prof. Alexey Onufriev** on **cell aging prediction using Hi-C contact maps**. Our work utilized entropy-based and structure-aware metrics to characterize chromatin organization and infer cellular senescence.
+Before joining UIC, I completed my B.S. in Computer Science at **Virginia Tech**, where I worked with **Prof. Alexey Onufriev** on **cell aging prediction using Hi-C contact maps**. Our work leveraged entropy-based and structure-aware metrics to characterize chromatin organization and infer cellular senescence.
 
-I also collaborated with **Prof. Feng Wu** on **CT image enhancement and denoising**, aiming to develop lightweight, deployable medical imaging models suitable for portable or resource-constrained environments.
+I also collaborated with **Prof. Feng Wu** on **CT image enhancement and denoising**, aiming to design lightweight, deployable medical imaging models suitable for portable or resource-constrained environments.
 
-My long-term goal is to develop AI systems that accelerate scientific discovery, particularly in understanding biological aging and analyzing complex cellular structures.
+My long-term goal is to build AI systems that accelerate scientific discovery, particularly in understanding cellular structures, aging mechanisms, and complex biological processes.
 
 ---
 
@@ -24,11 +24,12 @@ My long-term goal is to develop AI systems that accelerate scientific discovery,
 My research lies at the intersection of **AI, computational biology, and medical imaging**.  
 Specifically, I am interested in:
 
-- AI-driven modeling of **chromatin structure**, cellular dynamics, and biological aging  
-- Entropy-based & geometry-inspired methods for **Hi-C data analysis**  
-- Data-centric and scalable ML for **cell segmentation** and structural understanding  
+- Scalable and robust ML methods for **cell segmentation** and cellular structure analysis  
+- AI-driven modeling of **chromatin organization**, cellular dynamics, and biological aging  
+- Entropy-based & geometry-inspired approaches for **Hi-C data analysis**  
+- Data-centric ML pipelines for large-scale biological datasets  
 - Medical image enhancement and **robust denoising** for real-world deployment  
-- Lightweight AI models for **portable medical diagnostic systems**
+- Lightweight AI models for **portable scientific and medical diagnostic systems**
 
-My long-term goal is to develop **AI systems that accelerate scientific discovery**, particularly in understanding biological aging and enabling reliable analysis of cellular structures.
+My overarching goal is to develop **AI tools that advance biological discovery**, enabling reliable and interpretable analysis of cellular and molecular structures.
 
