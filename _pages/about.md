@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junkai Zhang | University of Illinois Chicago"
+title: "Junkai Zhang"
 author_profile: true
 redirect_from: 
   - /about/
