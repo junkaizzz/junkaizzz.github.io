@@ -33,3 +33,9 @@ Specifically, I am interested in:
 
 My overarching goal is to develop **AI tools that advance biological discovery**, enabling reliable and interpretable analysis of cellular and molecular structures.
 
+## Education
+
+- **[Dec. 2030 (Expected)]** Ph.D. in Computer Science, University of Illinois Chicago  
+- **[Dec 2025]** B.S. in Computer Science, Virginia Tech
+
+
