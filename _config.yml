@@ -8,7 +8,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "CS PhD @ University of Illinois Chicago"
+title                    : "@ University of Illinois Chicago"
 title_separator          : "-"
 name                     : &name "Junkai(Kain) Zhang"
 description              : &description "Junkai Zhang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
