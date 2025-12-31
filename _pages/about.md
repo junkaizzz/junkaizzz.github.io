@@ -11,7 +11,7 @@ redirect_from:
 
 I am a first-year Ph.D. student in Computer Science at the **University of Illinois Chicago (UIC)**, advised by **Prof. Hao Chen**. My current research focuses on **AI-for-Science and computational biology**, with an emphasis on developing scalable and robust methods for **cell segmentation and structural analysis**.
 
-Before joining UIC, I completed my B.S. in Computer Science at **Virginia Tech**, where I worked with **Prof. Alexey Onufriev** on **cell aging prediction using Hi-C contact maps**. Our work leveraged entropy-based and structure-aware metrics to characterize chromatin organization and infer cellular senescence.
+Before joining UIC, I completed my B.S. in Computer Science at **Virginia Tech (VT)**, where I worked with **Prof. Alexey Onufriev** on **cell aging prediction using Hi-C contact maps**. Our work leveraged entropy-based and structure-aware metrics to characterize chromatin organization and infer cellular senescence.
 
 I also collaborated with **Prof. Feng Wu** on **CT image enhancement and denoising**, aiming to design lightweight, deployable medical imaging models suitable for portable or resource-constrained environments.
 
@@ -40,6 +40,6 @@ My overarching goal is to develop **AI tools that advance biological discovery**
 ## Education
 
 - **[Dec. 2030 (Expected)]** Ph.D. in Computer Science, University of Illinois Chicago  
-- **[Dec 2025]** B.S. in Computer Science, Virginia Tech
+- **[Dec 2025]** B.S. in Computer Science, Virginia Tech (VT)
 
 
